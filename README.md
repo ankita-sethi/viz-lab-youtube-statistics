@@ -70,18 +70,11 @@ analysis of popularity, competition, growth, and regional trends.
 
 ---
 
-## Demo
+## Demo Video
 
-A voice narrated demo video demonstrates all features of the application, including:
+A short walkthrough of the interactive visualization and its features.
 
-- Variable selection
-- Chart updates
-- Scatter plot interactions
-- Axis toggling
-- Layout changes
-
-[Click here for Demo](Demo-l1.mov)
----
+## ▶️ Watch the demo here: https://youtu.be/SAOGKnAgh5Y
 
 ## Notes
 
