@@ -76,6 +76,7 @@ A short walkthrough of the interactive visualization and its features.
 
 ▶️ Watch the demo here: https://youtu.be/SAOGKnAgh5Y
 
+[Report](Report-lab1.pdf)
 ## Notes
 
 - `node_modules` is intentionally excluded
