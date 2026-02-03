@@ -74,7 +74,7 @@ analysis of popularity, competition, growth, and regional trends.
 
 A short walkthrough of the interactive visualization and its features.
 
-## ▶️ Watch the demo here: https://youtu.be/SAOGKnAgh5Y
+▶️ Watch the demo here: https://youtu.be/SAOGKnAgh5Y
 
 ## Notes
 
