@@ -70,7 +70,7 @@ analysis of popularity, competition, growth, and regional trends.
 
 ---
 
-## Demo(/Demo - l1.mov)
+## Demo
 
 A voice narrated demo video demonstrates all features of the application, including:
 
@@ -80,6 +80,7 @@ A voice narrated demo video demonstrates all features of the application, includ
 - Axis toggling
 - Layout changes
 
+[Click here for Demo](Demo-l1.mov)
 ---
 
 ## Notes
